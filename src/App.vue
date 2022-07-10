@@ -40,7 +40,7 @@ export default {
     pokemonBusca(item) {
       let resultadoBusca = [];
       return this.pokemons.filter((pokemon) => {
-        if (pokemon.name.includes(item)) {
+        if (pokemon.name.includes(item.toLowerCase())) {
           resultadoBusca.push(pokemon);
           this.pokemonsFiltrados = resultadoBusca;
         }
