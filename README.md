@@ -7,6 +7,6 @@ https://pokedex-ten-dun.vercel.app/
 
 ### Interface:
 
-[![uv29TL.jpg](https://i.im.ge/2022/07/10/uv29TL.jpg)](https://im.ge/i/uv29TL)
+![imagem interface](https://github.com/alencartha/aulas-vue/blob/main/assets/pokedex.jpg)
 
 **Desenvolvido por [Thaís Alencar](https://www.linkedin.com/in/alencartha/).**
